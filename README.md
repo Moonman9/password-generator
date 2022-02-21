@@ -33,7 +33,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 ## Screenshots
 
-![ss1.png](./assets/images/ss1.png)
+![ss1.png](ss1.png)
 
 
 ## Licensing
