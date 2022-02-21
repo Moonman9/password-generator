@@ -30,6 +30,10 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
+h2 {
+  text-align: center;
+}
+
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -86,6 +90,13 @@ header {
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
+  min-width: 260px;
+  display: inline;
+  align-items: flex-end;
+}
+
+.btn:hover {
+  background-color: darkred;
 }
 
 button[disabled] {
